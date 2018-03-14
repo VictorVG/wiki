@@ -9,3 +9,4 @@
 3. [**Network traffic control without Firewall Monitor plugin.**](https://github.com/VictorVG/PH/wiki/3)
 4. [**Turn off "Failed to load the kernel driver signature" messages.**](https://github.com/VictorVG/PH/wiki/4)
 5. [**Using "EnableWarning" setting in to configuration file and "Enable Warning" checkox in to "Options: General" tabs for command confirmations.**](https://github.com/VictorVG/PH/wiki/5)
+6. [**The CPU time used by the task is greater than the observer expects.**](https://github.com/VictorVG/PH/wiki/6)
