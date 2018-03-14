@@ -1,6 +1,6 @@
-﻿# Welcome in to project Wiki!
+﻿# Welcome in to Process Hacker 3.0 Wiki!
 
-**This page include only Table Of Context (TOC) for this Wiki.**
+**This page include only Tables Of Context (TOC) for Process Hacker 3.0 Wiki.**
 
 ### Table Of Context
 
